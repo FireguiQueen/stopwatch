@@ -17,14 +17,12 @@ body{
 
 
 } section.container{
-    background: rgba(255, 255, 255, 0.6);
-    border-radius: 16px;
+    background: linear-gradient(to bottom right, #e6f0ff, #d0e5ff);
     padding: 80px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.4);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12);
+    border: 1px solid #b3d4ff;
 
-        border-radius: 13px;
+    border-radius: 16px;
     padding: 150px;
 
     display: flex;
